@@ -1,6 +1,8 @@
 # Hi there 👋
 
-#### I'm Raphael Isiah Ramirez, a software engineer based in Philippines.
+#### I'm Raphael Isiah Ramirez, a software engineer specializing in front-end and <br />back-end development of web and mobile applications.
+
+
 
 <!--
 **ramirezraph/ramirezraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
