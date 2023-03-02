@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Raphael Ramirez, a software engineer specialized in front-end and <br />back-end development of web and mobile applications.
+I'm Raphael Ramirez, a software engineer specialized in frontend and <br />backend development of web and mobile applications.
 
 
 
